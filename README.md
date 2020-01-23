@@ -1,1 +1,1 @@
-# NASAMarsNavigate
+# Mars Rover Algorithm
